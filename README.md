@@ -79,6 +79,8 @@ example : enable member list skill
 
 ``intents.members = True``
 
+![dev](https://github.com/libialany/bot_raspberry_pi/blob/main/images/permission.PNG)
+
 
 > class members
 
